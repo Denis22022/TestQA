@@ -1,0 +1,139 @@
+{
+	"uuid": "f0a5443f-2183-4553-94d3-603ba0a3ea0b",
+	"historyId": "Проверка формы элемента справочника Организации.Проверка расположения элементов в форме Организации",
+	"name": "Проверка расположения элементов в форме Организации",
+	"fullName": null,
+	"start": 1658256753042,
+	"stop": 1658256753383,
+	"statusDetails": {
+		"known": false,
+		"muted": false,
+		"flaky": false
+	},
+	"status": "passed",
+	"stage": "finished",
+	"steps": [
+		{
+			"name": "И В командном интерфейсе я выбираю 'Справочники' 'Организации'",
+			"start": 1658256753049,
+			"stop": 1658256753101,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "Справочники"
+				},
+				{
+					"name": "Парам2",
+					"value": "Организации"
+				}
+			],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "Тогда открылось окно 'Организации'",
+			"start": 1658256753108,
+			"stop": 1658256753210,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "Организации"
+				}
+			],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "И я нажимаю на кнопку с именем 'FormCreate'",
+			"start": 1658256753218,
+			"stop": 1658256753231,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "FormCreate"
+				}
+			],
+			"attachments": [],
+			"steps": []
+		},
+		{
+			"name": "Тогда открылось окно 'Организация (создание)'",
+			"start": 1658256753239,
+			"stop": 1658256753377,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [
+				{
+					"name": "Парам1",
+					"value": "Организация (создание)"
+				}
+			],
+			"attachments": [],
+			"steps": []
+		}
+	],
+	"parameters": [],
+	"labels": [
+		{
+			"name": "story",
+			"value": "Проверка расположения элементов в форме Организации"
+		},
+		{
+			"name": "feature",
+			"value": "Проверка формы элемента справочника Организации"
+		},
+		{
+			"name": "epic",
+			"value": "Internal"
+		},
+		{
+			"name": "suite",
+			"value": "Проверка формы элемента справочника Организации"
+		},
+		{
+			"name": "tag",
+			"value": "быстрыепроверки"
+		},
+		{
+			"name": "tag",
+			"value": "tree"
+		},
+		{
+			"name": "package",
+			"value": "Быстрые проверки"
+		},
+		{
+			"name": "host",
+			"value": "LENOVO-R90NV6T7"
+		}
+	],
+	"links": [],
+	"attachments": [],
+	"description": null
+}

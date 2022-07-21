@@ -1,0 +1,54 @@
+{
+	"uuid": "a4ab4d87-fbd4-46c4-b3ed-67f064e776fa",
+	"historyId": "Проверка формы элемента справочника Организации.Проверка доступности вкладок Налоги и Валюты в справочники Организации",
+	"name": "Проверка доступности вкладок Налоги и Валюты в справочники Организации",
+	"fullName": null,
+	"start": 1658256756503,
+	"stop": 1658256756503,
+	"statusDetails": {
+		"known": false,
+		"muted": false,
+		"flaky": false
+	},
+	"status": "skipped",
+	"stage": "finished",
+	"steps": [],
+	"parameters": [],
+	"labels": [
+		{
+			"name": "story",
+			"value": "Проверка доступности вкладок Налоги и Валюты в справочники Организации"
+		},
+		{
+			"name": "feature",
+			"value": "Проверка формы элемента справочника Организации"
+		},
+		{
+			"name": "epic",
+			"value": "Internal"
+		},
+		{
+			"name": "suite",
+			"value": "Проверка формы элемента справочника Организации"
+		},
+		{
+			"name": "tag",
+			"value": "быстрыепроверки"
+		},
+		{
+			"name": "tag",
+			"value": "tree"
+		},
+		{
+			"name": "package",
+			"value": "Быстрые проверки"
+		},
+		{
+			"name": "host",
+			"value": "LENOVO-R90NV6T7"
+		}
+	],
+	"links": [],
+	"attachments": [],
+	"description": null
+}

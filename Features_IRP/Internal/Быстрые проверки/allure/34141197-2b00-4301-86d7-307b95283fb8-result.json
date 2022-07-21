@@ -1,0 +1,54 @@
+{
+	"uuid": "34141197-2b00-4301-86d7-307b95283fb8",
+	"historyId": "Проверка формы элемента справочника Организации.Проверка опции использовать организации в заказе",
+	"name": "Проверка опции использовать организации в заказе",
+	"fullName": null,
+	"start": 1658256756510,
+	"stop": 1658256756510,
+	"statusDetails": {
+		"known": false,
+		"muted": false,
+		"flaky": false
+	},
+	"status": "skipped",
+	"stage": "finished",
+	"steps": [],
+	"parameters": [],
+	"labels": [
+		{
+			"name": "story",
+			"value": "Проверка опции использовать организации в заказе"
+		},
+		{
+			"name": "feature",
+			"value": "Проверка формы элемента справочника Организации"
+		},
+		{
+			"name": "epic",
+			"value": "Internal"
+		},
+		{
+			"name": "suite",
+			"value": "Проверка формы элемента справочника Организации"
+		},
+		{
+			"name": "tag",
+			"value": "быстрыепроверки"
+		},
+		{
+			"name": "tag",
+			"value": "tree"
+		},
+		{
+			"name": "package",
+			"value": "Быстрые проверки"
+		},
+		{
+			"name": "host",
+			"value": "LENOVO-R90NV6T7"
+		}
+	],
+	"links": [],
+	"attachments": [],
+	"description": null
+}
